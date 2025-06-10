@@ -25,7 +25,7 @@
     },
     {
       "id": 3,
-      "fname": "Alison",
+      "fname": "Allison",
       "lname": "Vanderland",
       "email": "rabbitz@mail.ca",
       "phone": "321-555-6789",
@@ -36,7 +36,7 @@
       "fname": "Anne",
       "lname": "Teak",
       "email": "atk@mail.ca",
-      "phone": "123-555-6789",
+      "phone": "123-555-9999",
       "type": "personal"
     },
     {
@@ -44,7 +44,7 @@
       "fname": "Pamela",
       "lname": "Kaikes",
       "email": "pamk@mail.ca",
-      "phone": "123-555-6789",
+      "phone": "123-555-8888",
       "type": "personal"
     }
 ]
