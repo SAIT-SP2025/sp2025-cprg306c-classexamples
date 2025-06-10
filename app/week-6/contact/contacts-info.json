@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "fname": "Jerry",
+      "lname": "Atrick",
+      "email": "ja123@mail.ca",
+      "phone": "123-555-6789",
+      "type": "personal"
+    },
+    {
+      "id": 2,
+      "fname": "Matilda",
+      "lname": "Keybroke",
+      "email": "matilda@mail.ca",
+      "phone": "123-555-9876",
+      "type": "business"
+    },
+    {
+      "id": 4,
+      "fname": "William",
+      "lname": "Maizear",
+      "email": "billyOC@mail.ca",
+      "phone": "321-555-9876",
+      "type": "business"
+    },
+    {
+      "id": 3,
+      "fname": "Alison",
+      "lname": "Vanderland",
+      "email": "rabbitz@mail.ca",
+      "phone": "321-555-6789",
+      "type": "business"
+    },
+    {
+      "id": 6,
+      "fname": "Anne",
+      "lname": "Teak",
+      "email": "atk@mail.ca",
+      "phone": "123-555-6789",
+      "type": "personal"
+    },
+    {
+      "id": 5,
+      "fname": "Pamela",
+      "lname": "Kaikes",
+      "email": "pamk@mail.ca",
+      "phone": "123-555-6789",
+      "type": "personal"
+    }
+]
